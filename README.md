@@ -59,8 +59,3 @@ Hi! I'm First — a student & game developer who loves building **boss fights** 
 </p>
 
 ---
-
-## 📌 Pinned Projects
-👉 อย่าลืมดูวิธี pin ด้านล่างนะครับ!
-
----
