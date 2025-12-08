@@ -1,7 +1,7 @@
 <!-- Banner หรือข้อความเท่ ๆ -->
 <h1 align="center">👋 Hi! I'm <strong>First</strong></h1>
 <p align="center">
-  🎮 Game Developer • 💡 Boss Fight Designer • 😎 Horror Enthusiast  
+  🎮 Game Dev coding • 💡 Data science student • 😎 I'm developing myself 
 </p>
 
 ---
@@ -11,8 +11,8 @@ Hi! I'm First — a student & game developer who loves building **boss fights** 
 
 - 🔥 Working on: A new Boss Fight game & a Horror project (coming soon on itch.io)
 - 🧠 Learning: Enemy AI / State Machines
-- 🎮 Passion: Creating fun + challenging gameplay
-- 💬 Ask me about: Coding, Game Dev, or anything chill 😁
+- 🎮 Passion: Writing better code + challenging gameplay
+- 💬 Ask me about: Coding, Game Dev
 
 ---
 
