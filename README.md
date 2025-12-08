@@ -32,15 +32,17 @@ Hi! I'm First — a student & game developer who loves building **boss fights** 
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-git-main-akashrchowrasia.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats-git-main-akashrchowrasia.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
 ## 🎧 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&background_color=212121" />
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=0&redirect=true" />
 </p>
 
 ---
