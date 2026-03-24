@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Dev%3BLearning+Frameworks+%26+Tools%3BExploring+Backend+Next" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+First%3BLearning+Frameworks+%26+Tools%3BExploring+Backend+Next" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,12 +24,22 @@ Hi! I'm **First** — a student & game developer who loves building **boss fight
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css&theme=dark" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql&theme=dark" />
 </p>
 
 **Tools & Engines**
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,vscode,git&theme=dark" />
 </p>
 
 ---
