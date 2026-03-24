@@ -1,15 +1,19 @@
-<!-- Banner หรือข้อความเท่ ๆ -->
-<h1 align="center">👋 Hi! I'm <strong>First</strong></h1>
+Typing SVG Banner 
 <p align="center">
-  🎮 Game Dev coding • 💡 Data science student • 😎 I'm developing myself 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&width=500&lines=Hi+I'm+First+👋;Game+Dev+%7C+Data+Science+Student;Building+Boss+Fights+%26+Horror+Games" />
+</p>
+
+<p align="center">
+  🎮 Game Dev  •  💡 Data Science Student  •  😎 Always improving
 </p>
 
 ---
 
 ## 🌟 About Me
-Hi! I'm First — a student & game developer who loves building **boss fights** and **horror experiences**.
 
-- 🔥 Working on: A new Boss Fight game & a Horror project (coming soon on itch.io)
+Hi! I'm **First** — a student & game developer who loves building **boss fights** and **horror experiences**.
+
+- 🔥 Working on: Boss Fight game & Horror project *(coming soon on itch.io)*
 - 🧠 Learning: Enemy AI / State Machines
 - 🎮 Passion: Writing better code + challenging gameplay
 - 💬 Ask me about: Coding, Game Dev
@@ -18,39 +22,44 @@ Hi! I'm First — a student & game developer who loves building **boss fights** 
 
 ## 🧰 Tech Stack
 
-### 🗣️ Languages  
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=cs,python,js,html,css&theme=dark" />
 </p>
 
-### 🔧 Tools & Engines  
+**Tools & Engines**
 <p>
   <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,git&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats-git-main-akashrchowrasia.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats-git-main-akashrchowrasia.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎧 Now Playing on Spotify  
+## 🎧 Now Playing on Spotify
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=0&redirect=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jtpmswkqbleqs4p6tq4tbfqrhq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
+
 <p>
   <a href="https://discord.com/users/soxp1">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/first_6ma">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -59,5 +68,3 @@ Hi! I'm First — a student & game developer who loves building **boss fights** 
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
   </a>
 </p>
-
----
