@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+Im+First%3BGame+Dev+%7C+Data+Science%3BBuilding+Boss+Fights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Full+Stack+Dev%3BLearning+Frameworks+%26+Tools%3BExploring+Backend+Next" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🎮 Game Dev  •  💡 Data Science Student  •  😎 Always improving
+  🎮 Game Dev  •  🌐 Aspiring Full Stack  •  😎 Always improving
 </p>
 
 ---
@@ -12,10 +12,11 @@
 
 Hi! I'm **First** — a student & game developer who loves building **boss fights** and **horror experiences**.
 
-- 🔥 Working on: Boss Fight game & Horror project *(coming soon on itch.io)*
-- 🧠 Learning: Enemy AI / State Machines
-- 🎮 Passion: Writing better code + challenging gameplay
-- 💬 Ask me about: Coding, Game Dev
+- 🔥 Working on: Boss Fight game *(coming soon on itch.io)*
+- ⚛️ Learning: React & exploring popular frameworks (Next.js, Express)
+- 🌐 Goal: Become a Full Stack Developer
+- 🎮 Passion: Clean code + games that feel satisfying to play
+- 💬 Ask me about: Game Dev, Coding, Web Dev
 
 ---
 
