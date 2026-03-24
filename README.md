@@ -1,6 +1,5 @@
-Typing SVG Banner 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&width=500&lines=Hi+I'm+First+👋;Game+Dev+%7C+Data+Science+Student;Building+Boss+Fights+%26+Horror+Games" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=Hi+I'm+First+👋;Game+Dev+|+Data+Science+Student;Building+Boss+Fights+%26+Horror+Games" alt="Typing SVG" />
 </p>
 
 <p align="center">
