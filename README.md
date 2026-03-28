@@ -60,7 +60,7 @@ Hi! I'm **First** — a student & game developer who loves building **boss fight
 ## 🎧 Now Playing on Spotify
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jtpmswkqbleqs4p6tq4tbfqrhq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Firstqus" />
 </p>
 
 ---
