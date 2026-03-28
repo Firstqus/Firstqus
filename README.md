@@ -52,7 +52,7 @@ Hi! I'm **First** — a student & game developer who loves building **boss fight
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&timezone=Asia%2FBangkok" />
 </p>
 
 ---
