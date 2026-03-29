@@ -48,7 +48,7 @@ Hi! I'm **First** — a student & game developer who loves building **boss fight
 
 <p align="center">
   <img src="https://github-readme-stats-eight-delta-98.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-delta-98.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
