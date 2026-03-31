@@ -47,12 +47,13 @@ Hi! I'm **First** — a student & game developer who loves building **boss fight
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats-eight-delta-98.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" />
-  <img src="https://github-readme-stats-eight-delta-98.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl" />
+  <img src="https://github-readme-stats-fqus.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl" />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&timezone=Asia%2FBangkok&cache_seconds=0" />
+  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
