@@ -12,10 +12,10 @@
 
 Hi! I'm **First** — a student & game developer who loves building **boss fights** and **horror experiences**.
 
-- 🔥 Working on: Boss Fight game *(coming soon on itch.io)*
-- ⚛️ Learning: React & exploring popular frameworks (Next.js, Express)
-- 🌐 Goal: Become a Full Stack Developer
-- 🎮 Passion: Clean code + games that feel satisfying to play
+- 🔥 Working on: Boss Fight game (launching soon on itch.io) & Mastering Next.js
+- ⚛️ Learning: Advanced Next.js and Database Architecture
+- 🌐 Goal: Aspiring Software Engineer | AI Engineer
+- 🎮 Passion: Building robust, high-performance code and creating satisfying gameplay experiences
 - 💬 Ask me about: Game Dev, Coding, Web Dev
 
 ---
