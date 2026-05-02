@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-- 🔥 Working on: -
+- 🔥 Working on: Developing my portfolio
 - ⚛️ Learning: Advanced Next.js and Database Architecture
 - 🌐 Goal: Aspiring Software Engineer | AI Engineer
 - 🎮 Passion: Building robust, high-performance code and creating satisfying gameplay experiences
