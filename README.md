@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl&v=2" />
+  <img src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl&v=4" />
 </p>
 
 <p align="center">
