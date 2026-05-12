@@ -54,16 +54,6 @@
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31jtpmswkqbleqs4p6tq4tbfqrhq">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31jtpmswkqbleqs4p6tq4tbfqrhq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p>
