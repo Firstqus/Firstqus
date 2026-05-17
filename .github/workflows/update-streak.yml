@@ -43,8 +43,8 @@ jobs:
       - name: Check for changes
         id: verify_changed_files
         run: |
-          if add assets/stats/
-          if git diff --staged --quiet then
+          git add assets/stats/           # ← เพิ่มบรรทัดนี้
+          if git diff --staged --quiet; then   # ← เปลี่ยนจาก --quiet เป็น --staged --quiet
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
