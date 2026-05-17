@@ -43,7 +43,8 @@ jobs:
       - name: Check for changes
         id: verify_changed_files
         run: |
-          if git diff --quiet; then
+          if add assets/stats/
+          if git diff --staged --quiet then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
