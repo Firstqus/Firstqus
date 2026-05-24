@@ -10,6 +10,7 @@ const first = {
   currently: "NSC 2026 · Reading for TCAS70 · AI experiments",
   goal:      "Computer Engineering/IT @ top Thai university",
   contact:   "discord → soxp1",
+  itch.io: https://patawee.itch.io/,
 }
 ```
 
