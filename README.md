@@ -26,9 +26,7 @@ const first = {
 
 <div align="center">
   <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" />
-  <img height="155" src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl" />
-</div>
-
+  <img height="155" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl" />
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
