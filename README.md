@@ -1,69 +1,47 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+First%3BLearning+Frameworks+%26+Tools%3BExploring+Backend+Next" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+First.;game+dev+%2F+web+dev+%2F+always+building." alt="Typing SVG" />
+</div>
 
-<p align="center">
-  🎮 Game Dev  •  🌐 Aspiring Full Stack  •  😎 Always improving
-</p>
+<br/>
 
----
+```ts
+const first = {
+  stack:     ["Unity / C#", "Next.js", "Python"],
+  currently: "NSC 2026 · indie games · AI experiments",
+  goal:      "Computer Engineering @ top Thai university",
+  contact:   "discord → soxp1",
+}
+```
 
-## 🌟 About Me
+<br/>
 
-- 🔥 Working on: Developing my portfolio
-- ⚛️ Learning: Advanced Next.js and Database Architecture
-- 🌐 Goal: Aspiring Network Engineer | AI Engineer
-- 🎮 Passion: Building robust, high-performance code and creating satisfying gameplay experiences
-- 💬 Ask me about: Game Dev, Coding, Web Dev
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,react,nextjs,tailwind,nodejs,postgresql,unity,unreal,git&theme=dark&perline=11" />
+</div>
 
----
+<br/>
 
-## 🧰 Tech Stack
+<div align="center">
+  <img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=issues" />
+  <img height="155" src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl" />
+</div>
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cs,python,js,html,css&theme=dark" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</div>
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-</p>
+<br/>
 
-**Backend & Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql&theme=dark" />
-</p>
-
-**Tools & Engines**
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,vscode,git&theme=dark" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Firstqus&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats-fqus.vercel.app/api/top-langs/?username=Firstqus&layout=compact&theme=tokyonight&hide_border=true&hide=shaderlab,hlsl&v=4" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Firstqus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" />
-
----
-
-## 🌐 Connect With Me
-
-<p>
+<div align="center">
   <a href="https://discord.com/users/soxp1">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/first_6ma">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://patawee.itch.io">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white" />
   </a>
-</p>
+</div>
