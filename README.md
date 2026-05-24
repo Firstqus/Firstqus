@@ -7,8 +7,8 @@
 ```ts
 const first = {
   stack:     ["Unity / C#", "Next.js", "Python"],
-  currently: "NSC 2026 · indie games · AI experiments",
-  goal:      "Computer Engineering @ top Thai university",
+  currently: "NSC 2026 · Reading for TCAS70 · AI experiments",
+  goal:      "Computer Engineering/IT @ top Thai university",
   contact:   "discord → soxp1",
 }
 ```
