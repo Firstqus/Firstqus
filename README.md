@@ -19,7 +19,7 @@ const first = {
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,react,nextjs,tailwind,nodejs,postgresql,unity,unreal,git,c,css,html,docker,powershell,pycharm,pytorch&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,react,nextjs,tailwind,nodejs,postgresql,unity,unreal,git,c,css,html,docker,powershell,pycharm,pytorch,vercel&theme=dark&perline=11" />
 </div>
 
 <br/>
