@@ -2,7 +2,7 @@
 
 [🎮 patawee.itch.io](https://patawee.itch.io) &nbsp;·&nbsp; [🌐 portfolio](https://portfolio-lastest-pied.vercel.app/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+First.;game+dev+%2F+web+dev+%2F+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=hey%2C+I'm+First.;Game+Dev+%2F+Web+Dev+%2F+always+building." alt="Typing SVG" />
 
 </div>
 <br/>
